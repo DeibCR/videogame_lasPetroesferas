@@ -1,0 +1,13 @@
+modelo\Area_Juego.class
+modelo\Elemento.class
+modelo\Obstaculo.class
+controlador\Controlador_Instrucciones.class
+vista\GUI_Juego.class
+vista\GUI_Principal.class
+controlador\Hilo_Fondo.class
+controlador\Controlador_Principal.class
+vista\GUI_Principal$1.class
+controlador\Controlador_Juego.class
+vista\GUI_Instrucciones.class
+modelo\Principal.class
+vista\Panel_Juego.class
